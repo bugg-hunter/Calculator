@@ -1,6 +1,6 @@
 @echo off
 :shekhar
-set /p eq=Hukum mere aaka :
+set /p eq= Tell me what i can help you :
 set /a ans=%eq%
 echo=-%ans%
 pause
